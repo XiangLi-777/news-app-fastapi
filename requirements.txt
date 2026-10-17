@@ -1,0 +1,10 @@
+fastapi==0.141.1
+uvicorn==0.52.1
+SQLAlchemy==2.0.51
+asyncmy==0.2.13
+redis==8.1.0
+passlib==1.7.4
+bcrypt==4.0.1
+pydantic==2.13.4
+python-dotenv==1.2.2
+python-multipart==0.0.32
